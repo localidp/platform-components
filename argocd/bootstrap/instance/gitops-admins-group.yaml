@@ -4,3 +4,4 @@ metadata:
   name: gitops-admins
 users:
   - admin
+  - msauve@redhat.com
